@@ -14,12 +14,12 @@
 
    ![3](https://user-images.githubusercontent.com/26427511/86517947-cec85100-be35-11ea-8dd9-f881e9200b70.png)
 
-2. [Go to code]
+   [Go to code]
 
 3. Start from create a REST resource class by inheriting from CL_REST_RESOURCE. It will force you to redefine GET and POST methods.
 
    ![4](https://user-images.githubusercontent.com/26427511/86518075-097eb900-be37-11ea-9713-94e53394f5b3.png)
 
    ![5](https://user-images.githubusercontent.com/26427511/86518122-67130580-be37-11ea-8eeb-1bbffa57a40d.png)
-
-
+   
+   [Go to code]
