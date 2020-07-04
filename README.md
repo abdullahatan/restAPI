@@ -16,7 +16,7 @@
 
 2. [Go to code]
 
-3. Start from create a REST resource class by inheriting from CL_REST_RESOURCE. It will force you to redefine IF_REST_RESOURCE~GET and IF_REST_RESOURCE~POST methods.
+3. Start from create a REST resource class by inheriting from CL_REST_RESOURCE. It will force you to redefine GET and POST methods.
 
 ![4](https://user-images.githubusercontent.com/26427511/86518075-097eb900-be37-11ea-9713-94e53394f5b3.png)
 
