@@ -30,4 +30,12 @@
 
    ![3](https://user-images.githubusercontent.com/26427511/86518714-181b9f00-be3c-11ea-971d-60cd526ad0d6.png)
    
+   ![6](https://user-images.githubusercontent.com/26427511/86518740-60d35800-be3c-11ea-9d09-30fc05b0368e.png)
+   
    ![4](https://user-images.githubusercontent.com/26427511/86518717-236eca80-be3c-11ea-8d0f-3e316d6ecb73.png)
+   
+2. Test the endpoint. 
+
+   ![7](https://user-images.githubusercontent.com/26427511/86518800-d8a18280-be3c-11ea-8490-82b19cb02437.png)
+   ![dsada](https://user-images.githubusercontent.com/26427511/86518881-b78d6180-be3d-11ea-9f9d-0b4a8c12f289.png)
+
