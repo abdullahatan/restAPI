@@ -39,3 +39,15 @@
    ![7](https://user-images.githubusercontent.com/26427511/86518800-d8a18280-be3c-11ea-8490-82b19cb02437.png)
    ![dsada](https://user-images.githubusercontent.com/26427511/86518881-b78d6180-be3d-11ea-9f9d-0b4a8c12f289.png)
 
+### Step 4 : Test restAPI(Postman)
+
+1. Testing GET method.
+
+   ![44](https://user-images.githubusercontent.com/26427511/86518981-ba3c8680-be3e-11ea-918d-2f235da31e1d.png)
+
+2. Testing GET method.
+
+   ![66](https://user-images.githubusercontent.com/26427511/86519022-56668d80-be3f-11ea-80f4-aaf529eeb97e.png)
+
+
+
