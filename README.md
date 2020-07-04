@@ -26,7 +26,7 @@
    
 ### Step 3 : Create ICF Node
 
-1. To allow incoming request at specific endpoint, we need to create an ICF node in transaction SICF.
+1. Create endpoint an ICF node in transaction SICF.
 
    ![3](https://user-images.githubusercontent.com/26427511/86518714-181b9f00-be3c-11ea-971d-60cd526ad0d6.png)
    
