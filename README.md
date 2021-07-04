@@ -45,7 +45,7 @@
 
    ![44](https://user-images.githubusercontent.com/26427511/86518981-ba3c8680-be3e-11ea-918d-2f235da31e1d.png)
 
-2. Testing GET method.
+2. Testing POST method.
 
    ![66](https://user-images.githubusercontent.com/26427511/86519022-56668d80-be3f-11ea-80f4-aaf529eeb97e.png)
 
